@@ -1,0 +1,1 @@
+Este projeto teve como propósito a criação de um sistema CRUD voltado ao gerenciamento de uma loja fictícia de eletrônicos, empregando a linguagem de programação Java e o ambiente de desenvolvimento integrado (IDE) Apache NetBeans, com foco na prática de conceitos de programação orientada a objetos e manipulação de dados.
